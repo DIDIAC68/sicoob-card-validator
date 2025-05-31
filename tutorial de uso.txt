@@ -1,0 +1,14 @@
+Testador de Cartoes Sicoob
+===================================
+Coloque na Lista os Cartoes (lista.txt)
+By DIEGO SILVA (DIDIDEV) (https://www.linkedin.com/in/dididev)
+Instale o Python 3.13
+Coloque como PATH
+===================================
+VAI NO CMD e Digite:
+pip install selenium webdriver-manager art
+===================================
+PRECISA TER CHROME INSTALADO
+===================================
+RODE NA IDLE PY
+
